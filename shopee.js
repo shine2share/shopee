@@ -54,3 +54,6 @@ for (var i = 0; i < magiamgia.length; ++i) {
 		magiamgia[i].click();
 	}
 }
+
+// testing for commit to github
+
